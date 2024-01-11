@@ -10,17 +10,17 @@ règles CSS existantes)
 - GitHub: Forge logicielle en ligne utilisant Git
 
 ### 2. Pour l'épreuve E4
-- Je me présente et présente mon parcours, j'affiche mon CV
-- Je parle des projets que j'ai réalisé, je bascule sur les pages correspondantes
-- Je parle des stages que j'ai effectué et des projets auxquels j'ai participé, je bascule sur les pages
-correspondantes
-- Je présente mes bonnes pratiques:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Respect des normes et des standards
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Auto-formation
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Mise en oeuvre des tests (unitaires, d'intégration, fonctionnels, ...)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Documentation
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Gestion de version, développement collaboratif et gestion d'incidents
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. Je présente la façon dont j'organise ma veille et la façon dont je m'en sert
+ - Je me présente et présente mon parcours, j'affiche mon CV
+ - Je parle des projets que j'ai réalisé, je bascule sur les pages correspondantes
+ - Je parle des stages que j'ai effectué et des projets auxquels j'ai participé, je bascule sur les pages correspondantes
+ - Je présente mes bonnes pratiques : 
+    - Respect des normes et des standards
+    - Auto-formation
+    - Mise en oeuvre des tests (unitaires, d'intégration, fonctionnels, ...)
+    - Documentation
+    - Gestion de version, développement collaboratif et gestion d'incidents
+ - Je présente la façon dont j'organise ma veille et la façon dont je m'en sert
+   
 ### 3. Pour l'épreuve E5
 - J'héberge les documents présentant le contexte de mes AP
 - J'héberge le code source de mes AP

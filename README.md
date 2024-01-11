@@ -15,13 +15,13 @@ règles CSS existantes)
 - Je parle des stages que j'ai effectué et des projets auxquels j'ai participé, je bascule sur les pages
 correspondantes
 - Je présente mes bonnes pratiques:
-      -Respect des normes et des standards
-      -Auto-formation
-      -Mise en oeuvre des tests (unitaires, d'intégration, fonctionnels, ...)
-      -Documentation
-      -Gestion de version, développement collaboratif et gestion d'incidents
-      -Je présente la façon dont j'organise ma veille et la façon dont je m'en sert
-### 3. Pour l'épreuve £5
+      1. Respect des normes et des standards
+      2. Auto-formation
+      3. Mise en oeuvre des tests (unitaires, d'intégration, fonctionnels, ...)
+      4. Documentation
+      5. Gestion de version, développement collaboratif et gestion d'incidents
+      6. Je présente la façon dont j'organise ma veille et la façon dont je m'en sert
+### 3. Pour l'épreuve E5
 - J'héberge les documents présentant le contexte de mes AP
 - J'héberge le code source de mes AP
 - J'héberge mes productions (compte-rendus, documentations techniques, documentations utilisateurs, ...)

@@ -3,7 +3,7 @@
 HTML
 CSS
 B
-git
+# H1git
 5 3
 NetBeans: Environnement de développement intégré (IDE) utilisé pour ce projet
 HTML: Langage de description utilisé pour concevoir les pages web
